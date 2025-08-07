@@ -98,4 +98,10 @@ a:hover {
 }
 
 /* Services Section */
-#services .
+
+.img-fluid {
+    display: flex,
+    position: center,
+    margin: auto;
+}
+
